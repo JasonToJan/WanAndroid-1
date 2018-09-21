@@ -12,13 +12,13 @@
       "url": "https://github.com/sorgs/StepView"
     },
     {
-      "thumb": "https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/plugin-thumb/happy-bubble.png",
-      "name": "happybubble",
-      "description": "BubbleLayout随意变化的气泡布局，BubbleDialog根据点击View的位置定位它的位置，BubbleDialog可定制方向等！",
-      "pkg": "com.xujiaji.happybubbletest",
-      "start_class": "com.xujiaji.happybubbletest.MainActivity",
+      "thumb": "http://www.wanandroid.com/blogimgs/50c115c2-cf6c-4802-aa7b-a4334de444cd.png",
+      "name": "WanAndroidKotlin",
+      "description": "玩Android-Kotlin版本系列，学习Kotlin的不二选择！",
+      "pkg": "jason.wanandroid_kotlin",
+      "start_class": "jason.wanandroid_kotlin.w4ui.activity.SplashActivity",
       "version_code": 1,
-      "url": "https://github.com/xujiaji/HappyBubble"
+      "url": "https://github.com/wangzailfm/WanAndroidClient"
     },
     {
       "thumb": "https://raw.githubusercontent.com/qingmei2/RxImagePicker/2.x/screenshot/icon_bg.jpg",
