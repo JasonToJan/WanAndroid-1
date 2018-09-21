@@ -19,6 +19,15 @@
       "start_class": "com.xujiaji.happybubbletest.MainActivity",
       "version_code": 2,
       "url": "https://github.com/xujiaji/HappyBubble"
+    },
+    {
+      "thumb": "https://raw.githubusercontent.com/qingmei2/RxImagePicker/2.x/screenshot/icon_bg.jpg",
+      "name": "rximagepicker",
+      "description": "灵活的Android图片选择器，提供了知乎和微信主题的支持",
+      "pkg": "com.qingmei2.sample",
+      "start_class": "com.qingmei2.sample.MainActivity",
+      "version_code": 1,
+      "url": "https://github.com/qingmei2/RxImagePicker"
     }
   ]
 }
