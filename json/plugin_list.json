@@ -4,7 +4,7 @@
   "data": [
     {
       "thumb": "https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/plugin-thumb/stepview.png",
-      "name": "自定义签到的步骤View",
+      "name": "qiandao",
       "description": "以七天为周天，执行当天签到需要一个动画效果；签到前灰色，签到后变为绿色；每天加的分数不一定，第三天和第七天加的比较多，分数签到完成为橙色，有up标签。",
       "pkg": "com.sorgs.stepview",
       "start_class": "com.sorgs.stepview.ui.activity.MainActivity",
@@ -13,20 +13,20 @@
     },
     {
       "thumb": "https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/plugin-thumb/happy-bubble.png",
-      "name": "HappyBubble",
+      "name": "happybubble",
       "description": "BubbleLayout随意变化的气泡布局，BubbleDialog根据点击View的位置定位它的位置，BubbleDialog可定制方向等！",
       "pkg": "com.xujiaji.happybubbletest",
       "start_class": "com.xujiaji.happybubbletest.MainActivity",
-      "version_code": 2,
+      "version_code": 1,
       "url": "https://github.com/xujiaji/HappyBubble"
     },
     {
       "thumb": "https://raw.githubusercontent.com/qingmei2/RxImagePicker/2.x/screenshot/icon_bg.jpg",
-      "name": "rximagepicker",
+      "name": "RxImagePicker",
       "description": "灵活的Android图片选择器，提供了知乎和微信主题的支持",
       "pkg": "com.qingmei2.sample",
       "start_class": "com.qingmei2.sample.MainActivity",
-      "version_code": 1,
+      "version_code": 19,
       "url": "https://github.com/qingmei2/RxImagePicker"
     }
   ]
