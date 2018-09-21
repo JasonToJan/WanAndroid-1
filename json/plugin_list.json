@@ -37,6 +37,15 @@
       "start_class": "com.gyf.immersionbar.activity.MainActivity",
       "version_code": 1,
       "url": "https://github.com/gyf-dev/ImmersionBar"
+    },
+     {
+      "thumb": "https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=3b03c837572c11dfcadcb771024e09b5/ae51f3deb48f8c54cd34cafb3a292df5e1fe7f7a.jpg",
+      "name": "FlycoTabLayout",
+      "description": "一个Android TabLayout库,目前有3个TabLayout!",
+      "pkg": "com.flyco.tablayoutsamples",
+      "start_class": "com.flyco.tablayoutsamples.ui.SimpleHomeActivity",
+      "version_code": 1,
+      "url": "https://github.com/H07000223/FlycoTabLayout"
     }
   ]
 }
