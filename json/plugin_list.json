@@ -11,6 +11,15 @@
       "version_code": 1,
       "url": "https://github.com/sorgs/StepView"
     },
+     {
+      "thumb": "https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/wanandroid/plugin-thumb/happy-bubble.png",
+      "name": "HappyBubble",
+      "description": "BubbleLayout随意变化的气泡布局，BubbleDialog根据点击View的位置定位它的位置，BubbleDialog可定制方向等！",
+      "pkg": "com.xujiaji.happybubbletest",
+      "start_class": "com.xujiaji.happybubbletest.MainActivity",
+      "version_code": 2,
+      "url": "https://github.com/xujiaji/HappyBubble"
+    },
     {
       "thumb": "http://www.wanandroid.com/blogimgs/50c115c2-cf6c-4802-aa7b-a4334de444cd.png",
       "name": "WanAndroidKotlin",
@@ -19,15 +28,6 @@
       "start_class": "jason.wanandroid_kotlin.w4ui.activity.SplashActivity",
       "version_code": 1,
       "url": "https://github.com/wangzailfm/WanAndroidClient"
-    },
-    {
-      "thumb": "https://raw.githubusercontent.com/qingmei2/RxImagePicker/2.x/screenshot/icon_bg.jpg",
-      "name": "RxImagePicker",
-      "description": "灵活的Android图片选择器，提供了知乎和微信主题的支持",
-      "pkg": "com.qingmei2.sample",
-      "start_class": "com.qingmei2.sample.MainActivity",
-      "version_code": 19,
-      "url": "https://github.com/qingmei2/RxImagePicker"
     }
   ]
 }
